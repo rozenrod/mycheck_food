@@ -1,0 +1,848 @@
+[
+  {
+    "id": 1,
+    "name": "Хлеб",
+    "price": "",
+    "image": "bread"
+  },
+  {
+    "id": 2,
+    "name": "Помидор",
+    "price": "",
+    "image": "tomato"
+  },
+  {
+    "id": 3,
+    "name": "Йогурт",
+    "price": "",
+    "image": "yogurt"
+  },
+  {
+    "id": 4,
+    "name": "Яйца",
+    "price": "",
+    "image": "egg"
+  },
+  {
+    "id": 5,
+    "name": "Молоко",
+    "price": "",
+    "image": "milk"
+  },
+  {
+    "id": 6,
+    "name": "Капуста",
+    "price": "",
+    "image": "cabbage"
+  },
+  {
+    "id": 7,
+    "name": "Чай",
+    "price": "",
+    "image": "tea"
+  },
+  {
+    "id": 8,
+    "name": "Картофель",
+    "price": "",
+    "image": "potato"
+  },
+  {
+    "id": 9,
+    "name": "Брокколи",
+    "price": "",
+    "image": "broccoli"
+  },
+  {
+    "id": 17,
+    "name": "Чеснок",
+    "price": "",
+    "image": "clove-garlic"
+  },
+  {
+    "id": 10,
+    "name": "Авокадо",
+    "price": "",
+    "image": "avocado"
+  },
+  {
+    "id": 11,
+    "name": "Яблока",
+    "price": "",
+    "image": "apple"
+  },
+  {
+    "id": 12,
+    "name": "Свекла",
+    "price": "",
+    "image": "beet"
+  },
+  {
+    "id": 13,
+    "name": "Ягоды",
+    "price": "",
+    "image": "berries"
+  },
+  {
+    "id": 14,
+    "name": "Морковь",
+    "price": "",
+    "image": "carrot"
+  },
+  {
+    "id": 15,
+    "name": "Цвет кап",
+    "price": "",
+    "image": "cauliflower"
+  },
+  {
+    "id": 16,
+    "name": "Хлопья",
+    "price": "",
+    "image": "cereal"
+  },
+  {
+    "id": 18,
+    "name": "Кукуруза",
+    "price": "",
+    "image": "corn"
+  },
+  {
+    "id": 19,
+    "name": "Огурец",
+    "price": "",
+    "image": "cucumber"
+  },
+  {
+    "id": 20,
+    "name": "Сухофрукты",
+    "price": "",
+    "image": "dried-fruit"
+  },
+  {
+    "id": 21,
+    "name": "Баклажаны",
+    "price": "",
+    "image": "eggplant"
+  },
+  {
+    "id": 22,
+    "name": "Рыба",
+    "price": "",
+    "image": "fish"
+  },
+  {
+    "id": 23,
+    "name": "Имбирь",
+    "price": "",
+    "image": "ginger"
+  },
+  {
+    "id": 24,
+    "name": "Виноград",
+    "price": "",
+    "image": "grapes"
+  },
+  {
+    "id": 25,
+    "name": "Мёд",
+    "price": "",
+    "image": "honey"
+  },
+  {
+    "id": 26,
+    "name": "Сок",
+    "price": "",
+    "image": "juice"
+  },
+  {
+    "id": 27,
+    "name": "Киви",
+    "price": "",
+    "image": "kiwi"
+  },
+  {
+    "id": 28,
+    "name": "Лук-порей",
+    "price": "",
+    "image": "leek"
+  },
+  {
+    "id": 29,
+    "name": "Лимон",
+    "price": "",
+    "image": "lemon"
+  },
+  {
+    "id": 30,
+    "name": "Грибы",
+    "price": "",
+    "image": "mushroom"
+  },
+  {
+    "id": 31,
+    "name": "Орехи",
+    "price": "",
+    "image": "nut"
+  },
+  {
+    "id": 32,
+    "name": "Лук",
+    "price": "",
+    "image": "onion"
+  },
+  {
+    "id": 33,
+    "name": "Апельсин",
+    "price": "",
+    "image": "orange"
+  },
+  {
+    "id": 34,
+    "name": "Апель сок",
+    "price": "",
+    "image": "orange-juice"
+  },
+  {
+    "id": 35,
+    "name": "Персики",
+    "price": "",
+    "image": "peach"
+  },
+  {
+    "id": 36,
+    "name": "Грушы",
+    "price": "",
+    "image": "pear"
+  },
+  {
+    "id": 37,
+    "name": "Горох",
+    "price": "",
+    "image": "peas"
+  },
+  {
+    "id": 38,
+    "name": "Перец",
+    "price": "",
+    "image": "pepper"
+  },
+  {
+    "id": 39,
+    "name": "Ананас",
+    "price": "",
+    "image": "pineapple"
+  },
+  {
+    "id": 40,
+    "name": "Тыква",
+    "price": "",
+    "image": "pumpkin"
+  },
+  {
+    "id": 41,
+    "name": "Редис",
+    "price": "",
+    "image": "radish"
+  },
+  {
+    "id": 42,
+    "name": "Коктейль",
+    "price": "",
+    "image": "smoothie"
+  },
+  {
+    "id": 43,
+    "name": "Шпинат",
+    "price": "",
+    "image": "spinach"
+  },
+  {
+    "id": 44,
+    "name": "Клубника",
+    "price": "",
+    "image": "strawberry"
+  },
+  {
+    "id": 45,
+    "name": "Репа",
+    "price": "",
+    "image": "turnip"
+  },
+  {
+    "id": 46,
+    "name": "Вода",
+    "price": "",
+    "image": "water"
+  },
+  {
+    "id": 47,
+    "name": "Арбуз",
+    "price": "",
+    "image": "watermelon"
+  },
+  {
+    "id": 48,
+    "name": "Желудь",
+    "price": "",
+    "image": "acorn"
+  },
+  {
+    "id": 49,
+    "name": "Артишок",
+    "price": "",
+    "image": "artichoke"
+  },
+  {
+    "id": 50,
+    "name": "Спаржа",
+    "price": "",
+    "image": "asparagus"
+  },
+  {
+    "id": 51,
+    "name": "Бананы",
+    "price": "",
+    "image": "banana"
+  },
+  {
+    "id": 52,
+    "name": "Фасоль",
+    "price": "",
+    "image": "beans"
+  },
+  {
+    "id": 53,
+    "name": "Черника",
+    "price": "",
+    "image": "blueberry"
+  },
+  {
+    "id": 54,
+    "name": "Сыр",
+    "price": "",
+    "image": "cheese"
+  },
+  {
+    "id": 55,
+    "name": "Вишни",
+    "price": "",
+    "image": "cherry"
+  },
+  {
+    "id": 56,
+    "name": "Курица",
+    "price": "",
+    "image": "chicken"
+  },
+  {
+    "id": 57,
+    "name": "Чили",
+    "price": "",
+    "image": "Chili"
+  },
+  {
+    "id": 58,
+    "name": "Кабачок",
+    "price": "",
+    "image": "courgette"
+  },
+  {
+    "id": 59,
+    "name": "Оливки",
+    "price": "",
+    "image": "olives"
+  },
+  {
+    "id": 60,
+    "name": "Салат",
+    "price": "",
+    "image": "salad"
+  },
+  {
+    "id": 61,
+    "name": "Стейк",
+    "price": "",
+    "image": "steak"
+  },
+  {
+    "id": 62,
+    "name": "Пшеница",
+    "price": "",
+    "image": "wheat"
+  },
+  {
+    "id": 63,
+    "name": "Бекон",
+    "price": "",
+    "image": "bacon"
+  },
+  {
+    "id": 64,
+    "name": "Батон",
+    "price": "",
+    "image": "Baton"
+  },
+  {
+    "id": 65,
+    "name": "Шашлык",
+    "price": "",
+    "image": "brochette"
+  },
+  {
+    "id": 66,
+    "name": "Торт",
+    "price": "",
+    "image": "cake"
+  },
+  {
+    "id": 67,
+    "name": "Конфеты",
+    "price": "",
+    "image": "candy"
+  },
+  {
+    "id": 68,
+    "name": "Лединец",
+    "price": "",
+    "image": "candy-cane"
+  },
+  {
+    "id": 69,
+    "name": "Консервы",
+    "price": "",
+    "image": "canned-food"
+  },
+  {
+    "id": 70,
+    "name": "Китай.еда",
+    "price": "",
+    "image": "chinese-food"
+  },
+  {
+    "id": 71,
+    "name": "Шоколад",
+    "price": "",
+    "image": "chocolate"
+  },
+  {
+    "id": 72,
+    "name": "Печенье",
+    "price": "",
+    "image": "cookie"
+  },
+  {
+    "id": 73,
+    "name": "Сахарная вата",
+    "price": "",
+    "image": "cotton-candy"
+  },
+  {
+    "id": 74,
+    "name": "Краб",
+    "price": "",
+    "image": "crab"
+  },
+  {
+    "id": 75,
+    "name": "Круассан",
+    "price": "",
+    "image": "croissant"
+  },
+  {
+    "id": 76,
+    "name": "Кекс",
+    "price": "",
+    "image": "cupcake"
+  },
+  {
+    "id": 77,
+    "name": "Пончик",
+    "price": "",
+    "image": "doughnut"
+  },
+  {
+    "id": 78,
+    "name": "Фритюр",
+    "price": "",
+    "image": "french-fries"
+  },
+  {
+    "id": 79,
+    "name": "Пряник",
+    "price": "",
+    "image": "gingerbread-man"
+  },
+  {
+    "id": 80,
+    "name": "Гамбургер",
+    "price": "",
+    "image": "hamburger"
+  },
+  {
+    "id": 81,
+    "name": "Хот-дог",
+    "price": "",
+    "image": "hot-dog"
+  },
+  {
+    "id": 82,
+    "name": "Мороженое",
+    "price": "",
+    "image": "ice-cream"
+  },
+  {
+    "id": 83,
+    "name": "Желе",
+    "price": "",
+    "image": "jelly"
+  },
+  {
+    "id": 84,
+    "name": "Кебаб",
+    "price": "",
+    "image": "kebab"
+  },
+  {
+    "id": 85,
+    "name": "Кетчуп",
+    "price": "",
+    "image": "ketchup"
+  },
+  {
+    "id": 86,
+    "name": "Омар",
+    "price": "",
+    "image": "lobster"
+  },
+  {
+    "id": 87,
+    "name": "Чюпа-чюпс",
+    "price": "",
+    "image": "lollipop"
+  },
+  {
+    "id": 88,
+    "name": "Джем",
+    "price": "",
+    "image": "marmalade"
+  },
+  {
+    "id": 89,
+    "name": "Колбаса",
+    "price": "",
+    "image": "meat"
+  },
+  {
+    "id": 90,
+    "name": "Кексик",
+    "price": "",
+    "image": "muffin"
+  },
+  {
+    "id": 91,
+    "name": "Начос",
+    "price": "",
+    "image": "nachos"
+  },
+  {
+    "id": 92,
+    "name": "Лапша",
+    "price": "",
+    "image": "noodles"
+  },
+  {
+    "id": 93,
+    "name": "Оливк.масло",
+    "price": "--",
+    "image": "olive-oil"
+  },
+  {
+    "id": 94,
+    "name": "Устрицы",
+    "price": "",
+    "image": "oyster"
+  },
+  {
+    "id": 95,
+    "name": "Блины",
+    "price": "",
+    "image": "pancakes"
+  },
+  {
+    "id": 96,
+    "name": "Пирог",
+    "price": "",
+    "image": "pie"
+  },
+  {
+    "id": 97,
+    "name": "Пицца",
+    "price": "",
+    "image": "pizza"
+  },
+  {
+    "id": 98,
+    "name": "Попкорн",
+    "price": "",
+    "image": "popcorn"
+  },
+  {
+    "id": 99,
+    "name": "Рис",
+    "price": "",
+    "image": "rice"
+  },
+  {
+    "id": 100,
+    "name": "Соль",
+    "price": "",
+    "image": "salt"
+  },
+  {
+    "id": 101,
+    "name": "Сэндвич",
+    "price": "",
+    "image": "sandwich"
+  },
+  {
+    "id": 102,
+    "name": "Сардины",
+    "price": "",
+    "image": "sardines"
+  },
+  {
+    "id": 103,
+    "name": "Креветки",
+    "price": "",
+    "image": "shrimp"
+  },
+  {
+    "id": 104,
+    "name": "Бублики",
+    "price": "",
+    "image": "snack"
+  },
+  {
+    "id": 105,
+    "name": "Суп",
+    "price": "",
+    "image": "soup"
+  },
+  {
+    "id": 106,
+    "name": "Спагетти",
+    "price": "",
+    "image": "spaghetti"
+  },
+  {
+    "id": 107,
+    "name": "Суши",
+    "price": "",
+    "image": "sushi"
+  },
+  {
+    "id": 108,
+    "name": "Тако",
+    "price": "",
+    "image": "taco"
+  },
+  {
+    "id": 109,
+    "name": "Тосты",
+    "price": "",
+    "image": "toaster"
+  },
+  {
+    "id": 110,
+    "name": "Уксус",
+    "price": "",
+    "image": "vinegar"
+  },
+  {
+    "id": 111,
+    "name": "Майонез",
+    "price": "",
+    "image": "Mayonnaise"
+  },
+  {
+    "id": 112,
+    "name": "Газировка",
+    "price": "",
+    "image": "soda"
+  },
+  {
+    "id": 113,
+    "name": "Пиво",
+    "price": "",
+    "image": "beer"
+  },
+  {
+    "id": 114,
+    "name": "Кофе",
+    "price": "",
+    "image": "coffee"
+  },
+  {
+    "id": 115,
+    "name": "Кола",
+    "price": "",
+    "image": "cola"
+  },
+  {
+    "id": 116,
+    "name": "Котлеты",
+    "price": "",
+    "image": "cutlet"
+  },
+  {
+    "id": 117,
+    "name": "Абрикос",
+    "price": "",
+    "image": "peach"
+  },
+  {
+    "id": 118,
+    "name": "Чёрный перец",
+    "price": "",
+    "image": "black_pepper"
+  },
+  {
+    "id": 119,
+    "name": "Компот",
+    "price": "",
+    "image": "jar"
+  },
+  {
+    "id": 120,
+    "name": "Слив.масло",
+    "price": "",
+    "image": "butter"
+  },
+  {
+    "id": 121,
+    "name": "Специи",
+    "price": "",
+    "image": "condiment"
+  },
+  {
+    "id": 122,
+    "name": "Подсолн.масло",
+    "price": "",
+    "image": "sunflower-oil"
+  },
+  {
+    "id": 123,
+    "name": "Крекеры",
+    "price": "",
+    "image": "cracker"
+  },
+  {
+    "id": 124,
+    "name": "Пепси",
+    "price": "",
+    "image": "pepsi"
+  },
+  {
+    "id": 125,
+    "name": "Чипсы",
+    "price": "",
+    "image": "chips"
+  },
+  {
+    "id": 126,
+    "name": "Сосиски",
+    "price": "",
+    "image": "sausage"
+  },
+  {
+    "id": 127,
+    "name": "Пельмени",
+    "price": "",
+    "image": "dumpling"
+  },
+  {
+    "id": 128,
+    "name": "Вино",
+    "price": "",
+    "image": "wine"
+  },
+  {
+    "id": 129,
+    "name": "Укроп",
+    "price": "",
+    "image": "dill"
+  },
+  {
+    "id": 130,
+    "name": "Барбекю",
+    "price": "",
+    "image": "bbq"
+  },
+  {
+    "id": 131,
+    "name": "Сахар",
+    "price": "",
+    "image": "sugar"
+  },
+  {
+    "id": 132,
+    "name": "Помело",
+    "price": "",
+    "image": "pomelo"
+  },
+  {
+    "id": 133,
+    "name": "Гречка",
+    "price": "",
+    "image": "grain"
+  },
+  {
+    "id": 134,
+    "name": "Петрушка",
+    "price": "",
+    "image": "parsley"
+  },
+  {
+    "id": 135,
+    "name": "Черешни",
+    "price": "",
+    "image": "Cherries"
+  },
+  {
+    "id": 136,
+    "name": "Зелёный лук",
+    "price": "",
+    "image": "Green_onions"
+  },
+  {
+    "id": 137,
+    "name": "Сало",
+    "price": "",
+    "image": "pork"
+  },
+  {
+    "id": 138,
+    "name": "Фарш",
+    "price": "",
+    "image": "minced-meat"
+  },
+  {
+    "id": 139,
+    "name": "Лосось",
+    "price": "",
+    "image": "salmon"
+  },
+  {
+    "id": 140,
+    "name": "Сметана",
+    "price": "",
+    "image": "Sour"
+  },
+  {
+    "id": 141,
+    "name": "Свинина",
+    "price": "",
+    "image": "pork"
+  }
+]
